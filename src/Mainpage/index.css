@@ -1,0 +1,87 @@
+.MainContainer {
+  background-color: #9ba9eb;
+  height: 100vh;
+  padding: 50px;
+  border: 5px;
+}
+
+.Logo {
+  width: 180px;
+  height: 50px;
+}
+.AddNewPassword {
+  background-color: #5763a5;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 20px;
+  border-bottom: 2px;
+}
+.PasswordImage {
+  width: 250px;
+  height: 250px;
+}
+.InputCardContainer {
+  background-color: #454f84;
+  padding: 20px;
+  color: #f8fafc;
+  font-family: roboto;
+  border-radius: 5px;
+}
+.InputContainer {
+  display: flex;
+  flex-direction: row;
+  background-color: #ffffff;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 5px;
+}
+.InputImage {
+  width: 20px;
+  height: 20px;
+  align-self: center;
+}
+.InputElement {
+  width: 300px;
+  padding: 10px;
+  outline: none;
+  border: 0px;
+  border-left: 1px solid #9ba9eb;
+  margin-left: 2px;
+}
+.ButtonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+}
+.Button {
+  background-color: #0b69ff;
+  border: 0px;
+  padding: 10px;
+  color: #ffffff;
+  border-radius: 5px;
+  width: 80px;
+  align-self: flex-end;
+}
+
+.BottomContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+.SearchItem {
+  border: 0px;
+  outline: 0px;
+  padding: 5px;
+}
+.searchIcon {
+  width: 18px;
+  height: 18px;
+  align-items: center;
+  margin-top: 8px;
+}
+.SearchContainer {
+  background-color: #ffffff;
+  height: 35px;
+}
